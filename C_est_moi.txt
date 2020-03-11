@@ -1,4 +1,9 @@
 le saint graal
 incroyable histoire de l'espace
+<<<<<<< HEAD
 le chaudron magique
 SDA
+=======
+zoolander
+le chaudron magique
+>>>>>>> 22dd9a3bb0b92c2433521871e0c4cfd723dcca8d
